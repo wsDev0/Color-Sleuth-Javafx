@@ -1,0 +1,1 @@
+java -jar ./build/ColorSleuth+arm32-no_linux_64_support.jar

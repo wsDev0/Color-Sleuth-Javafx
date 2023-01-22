@@ -6,7 +6,7 @@ Also a template for future javafx projects.
 
 # How to play
  1. ```java -jar build/ColorSleuth.jar``` or build your own jar file to run.
- 2. after ran, the game will imediately start. There is no start screen.
+ 2. after ran, the game will immediately start. There is no start screen.
  3. The game alternates between player one and player two.
  4. Click the button with the different color to gain a point.
  5. Clicking the wrong button will result in the loss of a point.
